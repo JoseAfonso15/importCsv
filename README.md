@@ -17,7 +17,7 @@ O processo de upload foi armazenado em Job e são processadas pelo sistema de Qu
 
 ###### Instalação
 
-* git clone 
+* git clone https://github.com/JoseAfonso15/importCsv.git
 * Valide se as permissões das pastas dentro de *storage/** possuem a permissão 775
 * Rode o composer install
 * Renomear o *.env.example* para *.env* 
