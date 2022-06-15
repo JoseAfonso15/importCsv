@@ -1,0 +1,4 @@
+*
+!public/
+!.gitignore
+!price_table.csv
